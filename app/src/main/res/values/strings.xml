@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="actors">Actors</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="score">Score</string>
+    <string name="movies">Movies</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
